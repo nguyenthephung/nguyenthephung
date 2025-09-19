@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyen The Phung  
 
-<!--
-**nguyenthephung/nguyenthephung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at VNUHCM - University of Science  
+🌍 Joint Training Program with Université Claude Bernard Lyon 1 (System Engineering)  
+💻 Passionate about Backend Development, Data Engineering, and Brain-Computer Interfaces (EEG)  
+📫 Contact: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:nguyenthephung61@gmail.com)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+
+**Programming:** C++ · C# · Python · JavaScript · TypeScript  
+**Frontend:** React · Next.js · TailwindCSS 
+**Backend & Server:** Node.js · Express.js · Firebase Functions  
+**Databases:** MySQL · MongoDB · MSSQL  
+**Cloud & Hosting:** Firebase · Cloudinary · Render · Azure  
+**DevOps & Infrastructure:** Docker · Git · CI/CD  
+
+---
+
+## 📂 Featured Projects  
+
+### 🛒 [GreenMart – Fullstack E-commerce Platform](https://github.com/nguyenthephung/Green-Mart)  
+- Modern e-commerce for fresh & organic products  
+- React, Vite, TypeScript, TailwindCSS, Zustand, Node.js, Express.js, MongoDB, JWT, Cloudinary, Docker  
+- Features: product catalog, cart & checkout, vouchers, order tracking, admin dashboard  
+- **[Live Demo](https://greenmart-web-4385e.web.app/)**  
+
+---
+
+
+
+### 🧠 [EEG Brain-Wave Game Controller](https://github.com/nguyenthephung/EEG-Game---Brain-Life)  
+- Control Unity game using real-time EEG brainwave signals  
+- Python (BLE, signal processing, WebSocket) + Unity (C#)  
+- Features: noise filtering, real-time visualization, neuro-controlled gameplay  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenthephung&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthephung&layout=compact&theme=radical)  
+
+---
+
+
+⭐ From [nguyenthephung](https://github.com/nguyenthephung)
