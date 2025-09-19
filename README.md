@@ -10,7 +10,7 @@
 ## 🛠 Tech Stack  
 
 **Programming:** C++ · C# · Python · JavaScript · TypeScript  
-**Frontend:** React · Next.js · TailwindCSS 
+**Frontend:** React · Next.js · TailwindCSS  
 **Backend & Server:** Node.js · Express.js · Firebase Functions  
 **Databases:** MySQL · MongoDB · MSSQL  
 **Cloud & Hosting:** Firebase · Cloudinary · Render · Azure  
