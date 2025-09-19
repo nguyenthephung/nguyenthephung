@@ -3,7 +3,7 @@
 🎓 Computer Science Student at VNUHCM - University of Science  
 🌍 Joint Training Program with Université Claude Bernard Lyon 1 (System Engineering)  
 💻 Passionate about Backend Development, Data Engineering, and Brain-Computer Interfaces (EEG)  
-📫 Contact: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:nguyenthephung61@gmail.com)  
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/ph%E1%BB%A5ng-nguy%E1%BB%85n-th%E1%BB%83-285107385/) | [Email](mailto:nguyenthephung61@gmail.com)  
 
 ---
 
@@ -34,13 +34,6 @@
 - Control Unity game using real-time EEG brainwave signals  
 - Python (BLE, signal processing, WebSocket) + Unity (C#)  
 - Features: noise filtering, real-time visualization, neuro-controlled gameplay  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenthephung&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthephung&layout=compact&theme=radical)  
 
 ---
 
