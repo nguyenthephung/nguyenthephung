@@ -16,6 +16,15 @@
 
 ---
 
+## 🔢 Total Contributions  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nguyenthephung&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=nguyenthephung&limit=1&theme=tokyonight&combine_all_yearly_contributions=true" alt="total contributions"/>
+</p>
+
+---
+
 ## 📈 Contributions  
 
 <p align="center">
