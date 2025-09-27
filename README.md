@@ -15,13 +15,6 @@
 </p>
 
 ---
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyenthephung&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenthephung&theme=tokyonight" />
-</p>
-
 
 ## 🛠 My Skills  
 
