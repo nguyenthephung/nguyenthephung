@@ -18,8 +18,10 @@
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenthephung&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyenthephung&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenthephung&theme=tokyonight" />
 </p>
+
 
 ## 🛠 My Skills  
 
