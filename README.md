@@ -15,7 +15,11 @@
 </p>
 
 ---
+## 📈 Contribution Graph  
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenthephung&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
 
 ## 🛠 My Skills  
 
